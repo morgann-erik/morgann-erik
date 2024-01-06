@@ -1,1 +1,2 @@
 alias wsp="cd ~/workspace"
+alias vim="nvim"
