@@ -10,3 +10,6 @@ source .bash.sh
 echo "Deploying git"
 # shellcheck source=/dev/null
 source .git.sh
+echo "Deploying nvim"
+# shellcheck source=/dev/null
+source .nvim.sh
