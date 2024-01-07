@@ -13,3 +13,6 @@ source .git.sh
 echo "Deploying nvim"
 # shellcheck source=/dev/null
 source .nvim.sh
+echo "Deploying i3"
+# shellcheck source=/dev/null
+source .i3.sh
