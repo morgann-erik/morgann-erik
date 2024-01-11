@@ -16,3 +16,6 @@ source .nvim.sh
 echo "Deploying i3"
 # shellcheck source=/dev/null
 source .i3.sh
+echo "Deploying kitty"
+# shellcheck source=/dev/null
+source .kitty.sh
